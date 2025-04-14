@@ -7,10 +7,11 @@ const Index = () => {
       <div className="flex gap-8">
         <BlackCircle />
         <BlackCircle />
+        <BlackCircle />
       </div>
       <div className="text-center mt-6">
         <h1 className="text-4xl font-bold mb-4 color-black">Добро пожаловать!</h1>
-        <p className="text-xl text-gray-600">Два черных круга</p>
+        <p className="text-xl text-gray-600">Три черных круга</p>
       </div>
     </div>
   );
